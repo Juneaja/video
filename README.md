@@ -1,2 +1,2 @@
 # video
-video
+pemutar video pribadi
